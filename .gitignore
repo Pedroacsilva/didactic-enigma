@@ -1,2 +1,6 @@
 cats_Vs_dogs_small
 training_datasets
+*.keras
+*.ipynb
+*.zip
+*.png
